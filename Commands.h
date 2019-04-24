@@ -1,4 +1,4 @@
-#ifdef COMMANDS_H
+#ifndef COMMANDS_H
 #define COMMANDS_H
 
 struct Command
